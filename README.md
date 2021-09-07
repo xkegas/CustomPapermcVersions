@@ -1,5 +1,5 @@
 # CustomPaperInstaller
-Custom Installer for PaperMC
+Custom Version Installer for PaperMC
 
 Go to releases to download .exe<br/>
 
